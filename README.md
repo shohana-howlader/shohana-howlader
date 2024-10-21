@@ -54,7 +54,7 @@ Another brief description of an awesome project you have worked on.
 
 ## 📞 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- LinkedIn: [www.linkedin.com/in/shohana-howlader-082393241)
 - Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
 - Email: [shohanahowlader@gmail.com](mailto:shohanahowlader@gmail.com)
 
