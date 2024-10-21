@@ -47,15 +47,10 @@ Another brief description of an awesome project you have worked on.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shohana-howlader&layout=compact&theme=radical)
 
-## 📝 Blog Posts
-
-- [Your Blog Title](https://your-blog-link.com) - Brief description of what the blog post is about.
-- [Another Blog Title](https://another-blog-link.com) - Another brief description.
 
 ## 📞 Let's Connect
 
 - LinkedIn: [www.linkedin.com/in/shohana-howlader-082393241)
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
 - Email: [shohanahowlader@gmail.com](mailto:shohanahowlader@gmail.com)
 
 Thank you for stopping by! 😄
