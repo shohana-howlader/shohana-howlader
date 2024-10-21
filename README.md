@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am passionate about **Web Development** and spec
 - 💼 I work as a **Software Engineer** focusing on **JavaScript**, **TypeScript**, and **API development**.
 - 💻 I’m experienced in working with **HTML5**, **CSS3**, **JavaScript (ES6+)**, **React.js**, **Node.js**, and **MongoDB**.
 - 👯 I’m open to collaborate on interesting and challenging projects that involve **Web Development** and **API Integrations**.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [shohanahowlader@gmail.com](mailto:shohanahowlader@gmail.com)
 
 ## 🛠️ Skills and Technologies
 
@@ -56,7 +56,7 @@ Another brief description of an awesome project you have worked on.
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
 - Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [shohanahowlader@gmail.com](mailto:shohanahowlader@gmail.com)
 
 Thank you for stopping by! 😄
 
